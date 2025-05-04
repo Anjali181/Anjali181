@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anjali Priya</h1>
-<h3 align="center">A CSE student who loves to explore new fields.</h3>
+<h1 align="center">Hi 👋, I'm Anjali Priya.</h1>
+<h3 align="center" Always curious, always learning — building and breaking to grow every day..</h3>
 
 
 
